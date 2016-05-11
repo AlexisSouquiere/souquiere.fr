@@ -123,6 +123,10 @@ h5.card-title {
   font-size: inherit;
 }
 
+footer {
+  padding-bottom: 10px;
+}
+
 footer.page-footer {
   margin: 0;
 }
